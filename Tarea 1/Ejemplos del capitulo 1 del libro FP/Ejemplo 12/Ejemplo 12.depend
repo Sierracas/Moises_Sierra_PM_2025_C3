@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1758183681 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos c-3 2025\tareas\tarea 1\ejemplos del capitulo 1 del libro fp\ejemplo 12\main.c
+	<stdio.h>
+	<stdlib.h>
+
