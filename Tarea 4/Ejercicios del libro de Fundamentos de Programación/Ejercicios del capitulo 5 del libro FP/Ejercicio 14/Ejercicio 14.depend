@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1740035543 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos\tareas\tarea 5\ejercicios del capítulo 5 del libro de fundamentos de programación\ejercicio 14\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

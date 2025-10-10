@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1740547795 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos\tarea 6\ejercicios del capítulo 6 del libro de fundamentos de programación\ejercicio 3\main.c
+	<stdio.h>
+	<stdlib.h>
+
