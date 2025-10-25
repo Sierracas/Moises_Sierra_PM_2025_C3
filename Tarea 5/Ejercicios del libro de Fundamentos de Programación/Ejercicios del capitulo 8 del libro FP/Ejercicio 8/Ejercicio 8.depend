@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1761362588 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos c-3 2025\pm tareas\tarea 5\ejercicios del libro de fundamentos de programación\ejercicios del capitulo 8 del libro fp\ejercicio 8\main.c
+	<stdio.h>
+	<stdlib.h>
+
