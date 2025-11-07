@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762489991 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos c-3 2025\pm tareas\tarea 6\programa de inventario\programa de inventario\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1741753785 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos\tareas\tarea 8\ejercicios del capítulo 9 del libro de fundamentos de programación\ejercicio 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+hola 36.00 2
+Amor 123.00 181
+Salchicha 12.00 1
+Saco 0.00 153
+Yuca 20.00 5
