@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1762991721 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos c-3 2025\pm tareas\tarea 7\sistema de calculo para costo de viaje\sistema calculo costo de viaje\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
