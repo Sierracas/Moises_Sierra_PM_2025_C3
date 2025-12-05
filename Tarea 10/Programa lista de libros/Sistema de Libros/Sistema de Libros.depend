@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1764912050 source:c:\users\moiss\onedrive\escritorio\itla\programación para mecatrónicos c-3 2025\pm tareas\tarea 10\programa lista de libros\sistema de libros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

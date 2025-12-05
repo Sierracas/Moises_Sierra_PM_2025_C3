@@ -1,0 +1,3 @@
+1906784|on su amigo Sancho Panza.|4|nada|123.000000|2334
+1605|Miguel de Cervantes Saavedra|Don Quijote de la Mancha|Don Quijote de la Mancha trata de un hombre que, creyendose caballero, vive aventuras imaginarias c|0.000000|0
+1605|Miguel de Cervantes Saavedra|Don Quijote de la Mancha|Trata de un hombre que, creyendose caballero, vive aventuras imaginarias, acompa¤ado de su amigo Sacho Panza|1500.000000|1234
